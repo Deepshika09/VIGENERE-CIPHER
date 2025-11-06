@@ -94,6 +94,6 @@ int main() {
 ```
 ## OUTPUT
 
-<img width="840" height="349" alt="image" src="https://github.com/user-attachments/assets/281b1600-b900-4207-9769-e8306a705001" />
+<img width="840" height="349" alt="image" src="https://github.com/user-attachments/assets/76d08953-e286-4f55-934c-60bce149159b" />
 
 ## RESULT
